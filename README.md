@@ -1,2 +1,2 @@
 # project
-Docker node js application
+Dockerize node js application
